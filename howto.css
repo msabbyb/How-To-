@@ -1,0 +1,45 @@
+ div.hello {
+            margin: 20px;
+            
+        } 
+        .outer-box {
+                background-color:grey;
+                margin:10px;
+                padding:10px;
+                min-height:300px;
+              }
+              .name {
+                color:white;
+                font-family:unlock;
+                margin-left:20px;
+              }
+              .picture {
+                margin-left:20px;
+                float:left;
+                margin-right:20px;
+                margin-bottom:10px;
+                border:1px solid black;
+              }
+              .bio {
+                font-family:unlock;
+                padding-left:20px;
+                padding-right:20px;
+                padding-bottom:20px;
+              }
+              img {
+                display:block;
+              }
+               
+          h1{ 
+             font-family: 'Unlock';font-size: 45px;
+          }
+          h2{
+             font-family: 'Unlock';font-size: 25px;
+          }
+          h4{
+             font-family: 'Unlock';font-size: 15px;
+          }
+          body{
+             font-family: 'Wire One';font-size: 18px;
+          }
+        #ad{float:right;}
